@@ -1,4 +1,4 @@
-```py
+        ```py
 class Kae:
     """About my life :3"""
     @property
@@ -16,7 +16,7 @@ class Kae:
         specifications = {
             "peripherals": {
                 "monitor": "AOC 24GI5N 180hz",
-                "keyboard": "Redragon k617 fizz 60%",
+                "keyboard": ["Redragon k617 fizz 60%", "MageGee 65%"],
                 "mouse": "katar pro",
             },
             "build": {
@@ -29,7 +29,7 @@ class Kae:
         return software, specifications
     
     @property
-    def extras(self):
+    def interests(self):
         interested = ["Reverse Engineering", "Networking"]
         working = ["Navium",]
 
