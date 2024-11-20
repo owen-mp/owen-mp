@@ -1,4 +1,4 @@
-        ```py
+```py
 class Kae:
     """About my life :3"""
     @property
