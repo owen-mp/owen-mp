@@ -31,7 +31,7 @@ class Kae:
     @property
     def interests(self):
         interested = ["Reverse Engineering", "Networking"]
-        working = ["Navium",]
+        working = ["Navium", "FunCaptcha Solver"]
 
         return interested, working
 ```
