@@ -3,7 +3,7 @@ class Kae:
     """About my life :3"""
     @property
     def life(self):
-        age = 14
+        age = 15
         name = "Hassan"
         langs = ["English", "Hindi"]
         games = ["Valorant", "Fortnite", "Minecraft"]
